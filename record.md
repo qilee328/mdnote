@@ -72,4 +72,3 @@ grep ghhj* / （查进程或文本）
 
 ## other
 
-

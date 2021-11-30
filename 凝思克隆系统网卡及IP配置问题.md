@@ -8,8 +8,8 @@ mv 70-persistent-net.rules 70-persistent-net.rules.bak
 reboot
 ```
 2.对照mac地址表修改自动生成的70-persistent-net.rules文件
-![mac地址表](C:/Users/Qilee/Desktop/1.jpg)
-![rules文件](C:/Users/Qilee/Desktop/4.jpg)
+![mac地址表](./1.jpg)
+![rules文件](./4.jpg)
 按照mac地址表MAC1-eth0 ... MAC14-eth13的顺序修改70-persistent-net.rules文件中“NAME=eth8” 类似部分
 修改完毕保存重启
 
@@ -19,11 +19,12 @@ cd /etc/network/
 vim interface
 ```
 配置示例（含双IP）
-![rules文件](C:/Users/Qilee/Desktop/2.jpg)
-![rules文件](C:/Users/Qilee/Desktop/3.jpg)
+![rules文件](./2.jpg)
+![rules文件](./3.jpg)
 重启网卡
 `service networking restart`
 清理错误dns
+
 ```js
 cd /etc
 vim resolve.conf
