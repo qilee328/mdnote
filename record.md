@@ -13,13 +13,14 @@ md是html的简化
 | 5  | 6  |    |
 | ^  | 7  | 8  |
 
-L^A^T~E~X😄
+L^A^T~E~X
 
 $$
-\alpha+\beta=\gamma
+\alpha + \beta = \gamma
 $$
 
-$\alpha+\beta=\gamma$
+$ \alpha +\beta = \gamma $
+
 [画图在线编辑](https://mermaid-js.github.io/mermaid-live-editor/edit#eyJjb2RlIjoiZ3JhcGggVERcbkFbQ2hyaXN0bWFzXSAtLT58R2V0IG1vbmV5fCBCKEdvIHNob3BwaW5nKVxuQiAtLT4gQ3tMZXQgbWUgdGhpbmt9XG5DIC0tPnxPbmV8IERbTGFwdG9wXVxuQyAtLT58VHdvfCBFW2lQaG9uZV1cbkMgLS0-fFRocmVlfCBGW2ZhOmZhLWNhciBDYXJdXG4iLCJtZXJtYWlkIjoie1xuICBcInRoZW1lXCI6IFwiZGVmYXVsdFwiXG59IiwidXBkYXRlRWRpdG9yIjpmYWxzZSwiYXV0b1N5bmMiOnRydWUsInVwZGF0ZURpYWdyYW0iOnRydWV9)
 [画图](https://www.jianshu.com/p/77cc07f47cdc)---时序图、甘特图、饼图、[流程图](https://blog.csdn.net/lis_12/article/details/80693975)
 @import "C:\Users\Qilee\Pictures\Camera Roll\logo.png"
@@ -71,4 +72,8 @@ grep ghhj* / （查进程或文本）
   `start \\ip `
 
 ## other
+
+<font color=#00f00f>  字体改成绿色了 </font>
+
+==高亮==
 
